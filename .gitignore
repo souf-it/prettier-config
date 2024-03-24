@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Package Manager
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Misc
+.idea/
+.fleet/
+.vscode/

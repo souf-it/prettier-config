@@ -1,0 +1,38 @@
+{
+  "name": "@soufit/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration for Souf IT projects.",
+  "author": {
+    "name": "Souf IT",
+    "url": "https://github.com/souf-it"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/souf-it/prettier-config.git"
+  },
+  "files": [
+    "global/index.js"
+  ],
+  "keywords": [
+    "Souf IT",
+    "Prettier",
+    "Config"
+  ],
+  "bugs": {
+    "url": "https://github.com/souf-it/prettier-config/issues"
+  },
+  "license": "GPL-3.0-only",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
