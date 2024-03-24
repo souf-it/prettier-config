@@ -9,7 +9,6 @@
   "scripts": {
     "test": "vitest run"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/souf-it/prettier-config.git"
